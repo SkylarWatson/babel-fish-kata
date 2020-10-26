@@ -4,10 +4,10 @@ Douglas Adams created the Babel fish in 1978 for "Hitchhiker's Guide to the Gala
 
 In this coding exercise, you'll create a simple translation app.
 
-#### Language Format
-
-English is written as Subject-Verb-Object (SVO.)
-Hindi is written Subject-Object-Verb (SOV.)
+#### Language Format  
+  
+English is written as Subject-Verb-Object (SVO.)  
+Hindi is written Subject-Object-Verb (SOV.)  
 
 ![Language Format](img/language-format.png)
 
