@@ -43,12 +43,19 @@ Scenario: The Babel fish can translate compound sentences
   Then Skylar hears, "I like apples and you dislike sweets"
 ```
 
+#### Language Format
+
+<img src="img/language-format-compare-compound.png" width="588" height="177"/>
+
+
+#### Additional Considerations
+
 Additionally, these sentences should also be translatable:
 
 * I like apples and you dislike apples - मुझे सेब पसंद है और तुम्हें सेब नापसंद है  
 * I dislike apples and you like apples - मुझे सेब नापसंद है और तुम्हें सेब पसंद है  
 
-3: The Babel fish can translate in both directions  
+### 3: The Babel fish can translate in both directions  
 
 ```feature
 Scenario: The Babel fish can translate in both directions  
@@ -56,6 +63,8 @@ Scenario: The Babel fish can translate in both directions  
   When Skylar says, "I like apples"
   Then Dhaval hears, "मुझे सेब पसंद है"
 ```
+
+#### Additional Considerations
 
 Again, it's important to ensure the object, subject, and verb are mapped correctly. Here are additional sentences to validate the mapping is done correctly.
 
