@@ -13,7 +13,7 @@ Hindi is written Subject-Object-Verb (SOV.)
 
 #### Scenarios
 
-1:
+1: While using a Babel fish, the user can understand a different language
 
 ```feature
   Scenario: While using a Babel fish, the user can understand a different language
@@ -22,7 +22,12 @@ Hindi is written Subject-Object-Verb (SOV.)
     Then Skylar hears, "I like apples"
 ```
 
-2:
+When writing unit-tests, ensure you're doing the simplest thing possible. It's also important to ensure the object, subject, and verb are mapped correctly. Here are additional sentences to validate the mapping is done correctly.  
+  
+You like apples - तुम्हें सेब पसंद है  
+You dislike apples - तुम्हें सेब नापसंद है  
+  
+2: The Babel fish can translate compound sentences
 
 ```feature
 Scenario: The Babel fish can translate compound sentences
@@ -31,7 +36,7 @@ Scenario: The Babel fish can translate compound sentences
   Then Skylar hears, "I like apples and you dislike sweets"
 ```
 
-3:
+3: The Babel fish can translate in both directions  
 
 ```feature
 Scenario: The Babel fish can translate in both directions  
