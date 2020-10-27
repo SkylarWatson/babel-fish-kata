@@ -23,7 +23,7 @@ In this coding exercise, you'll create a simple translation app. The languages u
 English is written as Subject-Verb-Object ([SVO.](https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object)  
 Hindi is written Subject-Object-Verb ([SOV.](https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb))  
 
-<img src="img/language-format-compare.png" width="300" height="177"/>
+<img src="img/language-format.png" width="300" height="177"/>
 
 
 #### Additional Considerations
@@ -45,7 +45,7 @@ Scenario: The Babel fish can translate compound sentences
 
 #### Language Format
 
-<img src="img/language-format-compare-compound.png" width="588" height="177"/>
+<img src="img/language-format-compound.png" width="588" height="177"/>
 
 
 #### Additional Considerations
