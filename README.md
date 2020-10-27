@@ -45,7 +45,7 @@ Scenario: The Babel fish can translate compound sentences
 
 #### Language Format
 
-<img src="img/language-format-compound.png" width="588" height="177"/>
+<img src="img/language-format-2.png" width="588" height="177"/>
 
 
 #### Additional Considerations
