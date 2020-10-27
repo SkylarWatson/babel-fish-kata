@@ -55,7 +55,28 @@ Additionally, these sentences should also be translatable:
 * I like apples and you dislike apples - मुझे सेब पसंद है और तुम्हें सेब नापसंद है  
 * I dislike apples and you like apples - मुझे सेब नापसंद है और तुम्हें सेब पसंद है  
 
-### 3: The Babel fish can translate in both directions  
+### 3: The Babel fish can translate sentences with direct and indirect objects
+
+```feature
+Scenario: The babel fish can translate scentences with direct and indirect objects
+  Given Skylar only understands English
+  When Dhaval says, "मुझे सेब पर कारमेल पसंद है"
+  Then Skylar hears, "I like caramel on apples"
+```
+
+#### Language Format
+
+<img src="img/language-format-3.png" width="412" height="177"/>
+
+
+#### Additional Considerations
+
+Additionally, these sentences should also be translatable:
+
+* I dislike caramel on apples - मुझे सेब पर कारमेल नापसंद है  
+* You dislike caramel on apples - तुम्हें सेब पर कारमेल नापसंद है  
+
+### 4: The Babel fish can translate in both directions  
 
 ```feature
 Scenario: The Babel fish can translate in both directions  
