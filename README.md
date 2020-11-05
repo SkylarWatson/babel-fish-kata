@@ -45,7 +45,7 @@ Scenario: The Babel fish can translate compound sentences
 
 #### Language Format
 
-<img src="img/language-format-2.png" width="588" height="177"/>
+<img src="img/language-format2.png" width="588" height="177"/>
 
 
 #### Additional Considerations
@@ -66,7 +66,7 @@ Scenario: The babel fish can translate scentences with direct and indirect objec
 
 #### Language Format
 
-<img src="img/language-format-3.png" width="412" height="177"/>
+<img src="img/language-format3.png" width="412" height="177"/>
 
 
 #### Additional Considerations
